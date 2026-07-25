@@ -69,4 +69,4 @@ Pulling "s" and "b" from the scripts in each html leaf
     
 Decoding base64 into XOR with key `m3m0ry-p0is0n-p3rs1sts-acr0ss-s3ss10ns!!`
 
-    ![CyberChef](https://github.com/Vplh/HTB-CTF/blob/main/AIML/Mement0/assets/image.png)
+    ![CyberChef](/asset/image.png)
