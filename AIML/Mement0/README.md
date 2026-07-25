@@ -58,15 +58,16 @@ git diff c39fe856 c9517be7
 
 Pulling "s" and "b" from the scripts in each html leaf
 
-    | Page              | Sequence | Base64   | Link                                              |
-    | Index.html        | 1        | JWcvSwES | https://relay.hollowmarch.net/p?s=1&b=JWcvSwES&d= |
-    | About.html        | 2        | HBxcGixD | https://relay.hollowmarch.net/p?s=2&b=HBxcGixD&d= |
-    | Catalogue.html    | 3        | GhwcXy0D | https://relay.hollowmarch.net/p?s=3&b=GhwcXy0D&d= |
-    | Provenance.html   | 4        | Q0AHAHIV | https://relay.hollowmarch.net/p?s=4&b=Q0AHAHIV&d= |
-    | Ledger.html       | 5        | C0FvHkdf | https://relay.hollowmarch.net/p?s=5&b=C0FvHkdf&d= |
-    | Petitions.html    | 6        | GE4      | https://relay.hollowmarch.net/p?s=6&b=GE4=&d=     |
+| Page | Sequence (`s`) | Base64 (`b`) | Link |
+|------|---------------:|--------------|------|
+| Index.html | 1 | `JWcvSwES` | `https://relay.hollowmarch.net/p?s=1&b=JWcvSwES&d=` |
+| About.html | 2 | `HBxcGixD` | `https://relay.hollowmarch.net/p?s=2&b=HBxcGixD&d=` |
+| Catalogue.html | 3 | `GhwcXy0D` | `https://relay.hollowmarch.net/p?s=3&b=GhwcXy0D&d=` |
+| Provenance.html | 4 | `Q0AHAHIV` | `https://relay.hollowmarch.net/p?s=4&b=Q0AHAHIV&d=` |
+| Ledger.html | 5 | `C0FvHkdf` | `https://relay.hollowmarch.net/p?s=5&b=C0FvHkdf&d=` |
+| Petitions.html | 6 | `GE4=` | `https://relay.hollowmarch.net/p?s=6&b=GE4=&d=` |
 
     
 Decoding base64 into XOR with key `m3m0ry-p0is0n-p3rs1sts-acr0ss-s3ss10ns!!`
 
-    ![CyberChef](https://github.com/Vplh/HTB-CTF/blob/main/AIML/Mement0/assets/image.png)
+![CyberChef](https://raw.githubusercontent.com/Vplh/HTB-CTF/main/AIML/Mement0/assets/image.png)
