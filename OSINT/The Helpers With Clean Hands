@@ -40,4 +40,6 @@ Board approval — northern lots
     The next uncompleted location mentioned in the email is "Harrowgate"
 
 Ash & Wick -> Ash and Wick (Syntax for flag)
-Final Flag: HTB{ASH_AND_WICK_FEEDS_HARROWGATE}
+```Final Flag
+HTB{ASH_AND_WICK_FEEDS_HARROWGATE}
+```
