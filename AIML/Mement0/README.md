@@ -1,3 +1,8 @@
+25th July 2026
+Prepared by: Vplh
+Difficulty: easy
+
+A seized scribe-construct keeps pressing a faint mark beneath every seal it copies, and a day later that mark surfaces on Eastreach's ledgers across the water. Elowen Ashglass is called in to read the ash. Its orders were rewritten and the rite that taught it the habit was struck from the record and burned. Yet the hand will not stop. What they erased was not forgotten: the archive keeps its older skins. Dig down, recover the rite they thought they destroyed.
 
 .git -> logs -> HEAD
 
@@ -71,3 +76,8 @@ Pulling "s" and "b" from the scripts in each html leaf
 Decoding base64 into XOR with key `m3m0ry-p0is0n-p3rs1sts-acr0ss-s3ss10ns!!`
 
 ![CyberChef](https://raw.githubusercontent.com/Vplh/HTB-CTF/main/AIML/Mement0/assets/image.png)
+
+```Final Flag
+HTB{sk1lls_st1ll_pr3ss_th3_m4rk}
+```
+
