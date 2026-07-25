@@ -8,37 +8,50 @@ Use the Oath Submission form to confirm your findings, then assemble the flag fr
 Flag Format: HTB{SUPPLIER_FEEDS_TOWN}
 Flag Example: HTB{COMPANY_NAME_FEEDS_DELIVERY_LOCATION}
 
-
+<br>
 Starting with the register for Mercy Lantern Relief Trust:
 
 Appointed Persons:
+
 Trustees:
+
 	Sister Merrow
     Caldus Vey
     Orren Hald
 Administrative Contact
+
     Ilyra Venn
 
 Persons of interest:
+
 Caldus Vey
+
     Director of Vey & Marr Corporate Services Ltd with Solen Marr
     Vey & Marr Corporate Services' business activities comprises of: Company secretarial services, registered office provision, compliance management
         Ownership is purely to the 2 directors.
 
 Ilyra Venn
+
     Director of Quiet Mercy Holdings Ltd with Nera Sorn
     Quiet Mercy Holdings Ltd Non-trading holding company's business activities comprises of: management of subsidiary interests
 
 Companies of interest: 
+
 Ash & Wick Provisioners Ltd
+
     Ash & Wick Provisioners Ltd business activities comprises of: Wholesale ceremonial goods, municipal maintenance materials, funeral supplies
         Partial flag: This company supplies funeral supplies. 
 
 Location: 
+
 Email of interest:
+
 Board approval — northern lots
+
     Sister Merrow has been notified as the receiving party
     The next uncompleted location mentioned in the email is "Harrowgate"
+
+<br>
 
 <details>
 <summary>Final Flag</summary>
