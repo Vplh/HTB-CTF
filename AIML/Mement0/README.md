@@ -79,7 +79,7 @@ Decoding base64 into XOR with key `m3m0ry-p0is0n-p3rs1sts-acr0ss-s3ss10ns!!`
 
 
 <details>
-<summary>🏁 Final Flag</summary>
+<summary>Final Flag</summary>
 
 `HTB{sk1lls_st1ll_pr3ss_th3_m4rk}`
 
