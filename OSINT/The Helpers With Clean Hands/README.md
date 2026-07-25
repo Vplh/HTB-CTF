@@ -36,6 +36,8 @@ Ilyra Venn
     Director of Quiet Mercy Holdings Ltd with Nera Sorn
     Quiet Mercy Holdings Ltd Non-trading holding company's business activities comprises of: management of subsidiary interests
 
+<br>
+<br>
 Companies of interest: 
 
 Ash & Wick Provisioners Ltd
@@ -53,7 +55,7 @@ Board approval — northern lots
     The next uncompleted location mentioned in the email is "Harrowgate"
 
 <br>
-
+<br>
 <details>
 <summary>Final Flag</summary>
 
