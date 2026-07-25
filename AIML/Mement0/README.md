@@ -77,5 +77,10 @@ Decoding base64 into XOR with key `m3m0ry-p0is0n-p3rs1sts-acr0ss-s3ss10ns!!`
 
 ![CyberChef](https://raw.githubusercontent.com/Vplh/HTB-CTF/main/AIML/Mement0/assets/image.png)
 
-Final Flag:  
-HTB{sk1lls_st1ll_pr3ss_th3_m4rk}
+
+<details>
+<summary>🏁 Final Flag (click to reveal)</summary>
+
+`HTB{sk1lls_st1ll_pr3ss_th3_m4rk}`
+
+</details>
