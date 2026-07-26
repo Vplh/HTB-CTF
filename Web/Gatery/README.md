@@ -5,7 +5,8 @@ Difficulty: very easy  <br>
 Lysa Harrowmere reaches Crownspire with proof that a trusted castle informant is selling patrol routes to the enemy. The information is being used to ambush messengers, delay supplies, and keep Stormbound’s allies divided. The only person who can act on the proof is inside the castle for a closed council, but Lysa’s name has been removed from the entry list and the guards have orders to admit no unscheduled visitors. If she waits, the council ends and the traitor disappears with the next route packet. If she speaks openly at the gate, the proof is seized before it reaches the right hands. Lysa must trick the guarded passage, get inside, and place the evidence with the one ally who can expose the leak before the enemy moves again.
 
 Looking at the scenario files, one thing immediately stood out:
-Scenario_Files.PNG
+
+![Scenario_Files](https://raw.githubusercontent.com/Vplh/HTB-CTF/blob/main/Web/Gatery/assets/Scenario_Files.png)
 
 
 >curl -i -X POST http://154.57.164.77:30761/api/gate/enter -H "Cookie: session=admin"
