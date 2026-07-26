@@ -6,8 +6,7 @@ Lysa Harrowmere reaches Crownspire with proof that a trusted castle informant is
 
 Looking at the scenario files, one thing immediately stood out:
 
-![Scenario_Files](https://raw.githubusercontent.com/Vplh/HTB-CTF/blob/main/Web/Gatery/assets/Scenario_Files.png)
-
+![Scenario_Files](https://raw.githubusercontent.com/Vplh/HTB-CTF/refs/heads/main/Web/Gatery/assets/Scenario_Files.png)
 
 >curl -i -X POST http://154.57.164.77:30761/api/gate/enter -H "Cookie: session=admin"
 
